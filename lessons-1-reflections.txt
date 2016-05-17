@@ -1,0 +1,7 @@
+focus on differences
+safe trial & error
+logical grouping of changes
+different purpose of application
+-
+How might using version control make you more confident to make changes that could break something? easy way to revert to workng code
+Now that you have your workspace set up, what do you want to try using Git for? -
