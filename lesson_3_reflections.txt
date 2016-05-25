@@ -1,3 +1,7 @@
 lesson 3 reflections
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 one could get unintended changes by other contributors
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+fork, only github
+clone, github vs local
+branch, different features local & github
