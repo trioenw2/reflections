@@ -7,3 +7,6 @@ clone, github vs local
 branch, different features local & github
 What is the benefit of having a copy of the last known state of the remote stored locally?
 it enables working offline with a reasonable uptodate status of the remote
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+coordinating changes, version control, ...
+    
